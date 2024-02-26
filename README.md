@@ -8,7 +8,7 @@ I also contribute to several open source Python tools such as:
 - [MultiQC](https://github.com/MultiQC/MultiQC)
 - [samplot](https://github.com/ryanlayer/samplot)
 - [NAIBR](https://github.com/pontushojer/NAIBR)
-- [WhatsHap](https://github.com/whatshap/whatshap). 
+- [WhatsHap](https://github.com/whatshap/whatshap)
 
 More about me:
 - [LinkedIn](https://www.linkedin.com/in/pontushojer/)
